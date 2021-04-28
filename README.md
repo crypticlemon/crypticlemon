@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Noor A.
 - 👀 I’m interested in game developement, and a little in AI.
-- 🌱 I’m currently learning C++. Previously, I learned Python, Javascript, and taught myself HTML and CSS
+- 🌱 I’m currently learning C++. Previously, I learned Python, Javascript, and taught myself HTML and CSS.
 
 <!---
 crypticlemon/crypticlemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
